@@ -1,9 +1,13 @@
 * 1325 Dinnington Squadron Website Source
 The website is currently in Alpha stages.
 
+Please use the issues functionality or contact CWO Cotton.
+
 Please find the website at [[http:1325dinningtonsqn.github.io][1325 Dinnington Squadron]]
 
-Pages:
+
+** Site Structure
+The website structure can be seen here.
 - [[http:1325dinningtonsqn.github.io][Home Page]]
 - [[http:1325dinningtonsqn.github.io/what-we-do.html][What we do]]
   - [[http:1325dinningtonsqn.github.io/flying-and-gliding.html][Flying and Gliding]]
@@ -15,3 +19,18 @@ Pages:
 - [[http:1325dinningtonsqn.github.io/contact.html][Contact]]
 - [[http:1325dinningtonsqn.github.io/about.html][About]]
 - [[http:1325dinningtonsqn.github.io/atc-flying-high.html][ATC Flying High]]
+
+
+** Todo List
+- [ ] Check all page content is correct
+  - [ ] Home Page
+  - [ ] What we do
+  - [ ] Flying and Gliding
+  - [ ] Shooting
+  - [ ] Fieldcraft
+  - [ ] First Aid
+  - [ ] DofE
+  - [ ] Drill
+  - [ ] Contact
+  - [ ] About
+  - [ ] ATC Flying High
