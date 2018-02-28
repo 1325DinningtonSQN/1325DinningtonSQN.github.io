@@ -1,2 +1,17 @@
 * 1325 Dinnington Squadron Website Source
+The website is currently in Alpha stages.
+
 Please find the website at [[http:1325dinningtonsqn.github.io][1325 Dinnington Squadron]]
+
+Pages:
+- [[http:1325dinningtonsqn.github.io][Home Page]]
+- [[http:1325dinningtonsqn.github.io/what-we-do.html][What we do]]
+  - [[http:1325dinningtonsqn.github.io/flying-and-gliding.html][Flying and Gliding]]
+  - [[http:1325dinningtonsqn.github.io/shooting.html][Shooting]]
+  - [[http:1325dinningtonsqn.github.io/shooting.html][Fieldcraft]]
+  - [[http:1325dinningtonsqn.github.io/first-aid.html][First Aid]]
+  - [[http:1325dinningtonsqn.github.io/dofe.html][DofE]]
+  - [[http:1325dinningtonsqn.github.io/drill.html][Drill]]
+- [[http:1325dinningtonsqn.github.io/contact.html][Contact]]
+- [[http:1325dinningtonsqn.github.io/about.html][About]]
+- [[http:1325dinningtonsqn.github.io/atc-flying-high.html][ATC Flying High]]
