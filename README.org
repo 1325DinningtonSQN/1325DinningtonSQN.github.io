@@ -20,17 +20,16 @@ The website structure can be seen here.
 - [[http:1325dinningtonsqn.github.io/about.html][About]]
 - [[http:1325dinningtonsqn.github.io/atc-flying-high.html][ATC Flying High]]
 
-
 ** Todo List
-- [ ] Check all page content is correct
-  - [ ] Home Page
-  - [ ] What we do
-  - [ ] Flying and Gliding
-  - [ ] Shooting
-  - [ ] Fieldcraft
-  - [ ] First Aid
-  - [ ] DofE
-  - [ ] Drill
-  - [ ] Contact
-  - [ ] About
-  - [ ] ATC Flying High
+*** Check Pages Content [0/11]
+- [ ] Home Page
+- [ ] What we do
+- [ ] Flying and Gliding
+- [ ] Shooting
+- [ ] Fieldcraft
+- [ ] First Aid
+- [ ] DofE
+- [ ] Drill
+- [ ] Contact
+- [ ] About
+- [ ] ATC Flying High
