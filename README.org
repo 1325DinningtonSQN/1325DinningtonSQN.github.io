@@ -1,7 +1,7 @@
 * 1325 Dinnington Squadron Website Source
 The website is currently in Alpha stages.
 
-Please use the issues functionality or contact CWO Cotton.
+Please use the issues functionality or contact the PR team.
 
 Please find the website at [[http:1325dinningtonsqn.github.io][1325 Dinnington Squadron]]
 
