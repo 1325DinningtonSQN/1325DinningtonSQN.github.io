@@ -1,4 +1,9 @@
 * 1325 Dinnington Squadron Website Source
+** Contributors
+- CWO Cotton
+- SGT Wallhead
+- CPL Tyler
+
 The website is currently in Alpha stages.
 
 Please use the issues functionality or contact the PR team.
@@ -21,7 +26,11 @@ The website structure can be seen here.
 - [[http:1325dinningtonsqn.github.io/atc-flying-high.html][ATC Flying High]]
 
 ** Todo List
-*** Check Pages Content [0/11]
+
+*** Functionality [0%] (CWO Cotton)
+- [ ] Find better conversion from org mode to HTML.
+- [ ] Find system or make a scipt to keek the HTML Source up to date.
+*** Check Pages Content [0%] (SGT Wallhead)
 - [ ] Home Page
 - [ ] What we do
 - [ ] Flying and Gliding
@@ -33,3 +42,7 @@ The website structure can be seen here.
 - [ ] Contact
 - [ ] About
 - [ ] ATC Flying High
+
+*** Styling/Design [0%] (CPL Tyler)
+- [ ] Find an appropiate theme or styling.
+- [ ] Find images and media.
