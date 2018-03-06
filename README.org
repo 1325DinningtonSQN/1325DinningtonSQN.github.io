@@ -2,14 +2,12 @@
 ** Contributors
 - CWO Cotton
 - SGT Wallhead
+- SGT Bloor
 - CPL Tyler
 
-The website is currently in Alpha stages.
+The website is currently in Alpha stages. Any suggestions would be greatly appreciated.
 
 Please use the issues functionality or contact the PR team.
-
-Please find the website at [[http:1325dinningtonsqn.github.io][1325 Dinnington Squadron]]
-
 
 ** Site Structure
 The website structure can be seen here.
@@ -30,7 +28,7 @@ The website structure can be seen here.
 *** Functionality [0%] (CWO Cotton)
 - [ ] Find better conversion from org mode to HTML.
 - [ ] Find system or make a scipt to keek the HTML Source up to date.
-*** Check Pages Content [0%] (SGT Wallhead)
+*** Check Pages Content [0%] (SGT Wallhead & SGT Bloor)
 - [ ] Home Page
 - [ ] What we do
 - [ ] Flying and Gliding
@@ -46,3 +44,4 @@ The website structure can be seen here.
 *** Styling/Design [0%] (CPL Tyler)
 - [ ] Find an appropiate theme or styling.
 - [ ] Find images and media.
+- [ ] Work on CSS File
